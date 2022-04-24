@@ -1,0 +1,1 @@
+# FIT-VUT-IJC-2.projekt
