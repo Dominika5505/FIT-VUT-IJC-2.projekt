@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "string": "cpp",
-        "htab.h": "c",
-        "htab_print.h": "c",
-        "htab_private.h": "c"
-    }
-}
